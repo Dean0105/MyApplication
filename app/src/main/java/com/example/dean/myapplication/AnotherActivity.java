@@ -19,5 +19,6 @@ public class AnotherActivity extends Activity {
 
         Toast.makeText(AnotherActivity.this,"测试",Toast.LENGTH_LONG).show();
         Log.d("SSS","sdf");
+        //增
     }
 }
